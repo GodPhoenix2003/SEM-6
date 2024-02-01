@@ -1,3 +1,5 @@
+//Write a lex program to count the number of characters, words, spaces, end of lines in a given input file.
+
 %{
 #include<stdio.h>
 int sc=0,wc=0,lc=0,cc=0;
