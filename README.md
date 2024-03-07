@@ -11,6 +11,8 @@
 
 [Assignment 6](https://uemeduin-my.sharepoint.com/:b:/g/personal/sagnik_chatterjee2021_uem_edu_in/ERFVWABIKG5NtcXmrWZZf6MB_xrhCVex5xVBXRBkEfYSdA?e=Se73ts)
 
+[Assignment 7](https://uemeduin-my.sharepoint.com/:b:/g/personal/sagnik_chatterjee2021_uem_edu_in/ESdQbmEgS_5HnQNRgblM9H0BMGr3XXMPBLWE6UvTGHiaGA?e=4aK1UX)
+
 # COMPILER DESIGN LAB
 [Assignment 1](https://uemeduin-my.sharepoint.com/:b:/g/personal/sagnik_chatterjee2021_uem_edu_in/ESavEN0i1thLuZWOuLDZ7zoB_bl9-zdofhcA0_Wc3b_-jw?e=A18Yyf)
 
